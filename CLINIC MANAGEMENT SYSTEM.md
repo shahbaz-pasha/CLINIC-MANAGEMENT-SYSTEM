@@ -172,6 +172,22 @@ int main() {
 }
 ```
 
+## CODE IMPLEMENTATION:
+![img1](image/img1.png)
+![img1](image/img2.png)
+![img1](image/img3.png)
+![img1](image/img4.png)
+![img1](image/img5.png)
+![img1](image/img6.png)
+![img1](image/img7.png)
+![img1](image/img8.png)
+## Output:
+
+![img1](image/img9.png)
+![img1](image/img10.png)
+![img1](image/img11.png)
+![img1](image/img12.png)
+
 ## Conclusion
 The clinic management system efficiently handles appointment scheduling and patient management through a well-structured implementation. By managing appointments, maintaining patient records, and providing clear doctor and clinic details, it contributes to operational efficiency and improved patient satisfaction.
 
